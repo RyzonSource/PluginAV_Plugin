@@ -61,7 +61,7 @@ $plugins = array(
 
 ```"nomepl.php" => true,```
 
-✅ Ecco fatto!
+✅ Ecco fatto! 
 
 ## Come faccio a vedere se il plugin funziona senzaa inviare il messaggio al bot?
 é semplice andate su https://linkav.altrevista.org/nomebot/index.php

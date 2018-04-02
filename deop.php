@@ -1,4 +1,5 @@
 <?php
+echo "DEOP - Funzionante";
 function unprom($chatID, $userID, $can_invite_users = true, $can_delete_messages = true, $can_restrict_members = true)
 {
 global $api;
